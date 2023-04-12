@@ -1,0 +1,25 @@
+.main-content-wrapper {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: auto;
+  width: auto;
+}
+
+.menu li {
+  list-style-type: none;
+  display: inline;
+  font-size: large;
+}
+
+.steps-list {
+  display: table;
+  margin: 0 auto;
+}
+
+.steps-list li {
+  text-align: left;
+}
+
+.ingredients li {
+  list-style-type: none;
+}
